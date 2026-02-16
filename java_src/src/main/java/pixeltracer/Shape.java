@@ -1,4 +1,4 @@
-package main.java.pixeltracer;
+package pixeltracer;
 
 /* Enums */
 enum ShapeType { POINT, LINE, SQUAR, RECTANGLE, CERCLE, POLYGON, CURVE }

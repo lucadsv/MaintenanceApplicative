@@ -1,4 +1,4 @@
-package main.java.pixeltracer;
+package pixeltracer;
 public class Pixel {
     private int px;
     private int py;

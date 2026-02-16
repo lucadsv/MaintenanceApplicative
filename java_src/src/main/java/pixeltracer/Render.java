@@ -1,4 +1,4 @@
-package main.java.pixeltracer;
+package pixeltracer;
 import java.util.List;
 
 public class Render {

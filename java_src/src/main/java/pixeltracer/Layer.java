@@ -1,4 +1,4 @@
-package main.java.pixeltracer;
+package pixeltracer;
 import java.util.LinkedList;
 import java.util.List;
 
