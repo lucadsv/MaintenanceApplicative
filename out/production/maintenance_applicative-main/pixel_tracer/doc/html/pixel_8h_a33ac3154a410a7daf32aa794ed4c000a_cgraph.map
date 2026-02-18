@@ -1,0 +1,7 @@
+<map id="pixel_square" name="pixel_square">
+<area shape="rect" id="Node000001" title="Rasterise un carré." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="Node000002" href="$pixel_8c.html#ada24bb1dd5c74df0c61ffd451a603da6" title="Trace un segment entre deux points." alt="" coords="148,5,254,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,16,135,18,130,19,100,21"/>
+<area shape="rect" id="Node000003" href="$pixel_8c.html#a88186143f92662a89216b505395926a0" title="Crée un pixel." alt="" coords="302,5,393,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,16,289,19,284,19,255,21"/>
+</map>

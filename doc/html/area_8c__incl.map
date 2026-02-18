@@ -1,0 +1,19 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/area.c" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/area.c">
+<area shape="rect" id="Node000001" title="Implémentation des fonctions de gestion des zones de dessin (Area)." alt="" coords="102,5,273,64"/>
+<area shape="rect" id="Node000002" href="$area_8h.html" title="Gestion des &quot;areas&quot; (zones de dessin)." alt="" coords="124,112,182,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,62,166,98,161,96,175,67"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="257,261,321,288"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="202,63,281,247,275,247,198,67"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,261,69,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,141,97,161,68,188,53,217,44,247,39,245,48,215,64,185,93,157,128,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="79,187,139,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="147,137,127,175,122,172,144,141"/>
+<area shape="rect" id="Node000005" href="$layers_8h.html" title="Gestion des calques (layers)." alt="" coords="163,187,231,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="161,137,184,173,179,173,160,142"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="170,216,80,257,78,252,168,211"/>
+<area shape="rect" id="Node000006" href="$list_8h_source.html" title=" " alt="" coords="92,261,142,288"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="186,213,143,253,140,249,181,215"/>
+<area shape="rect" id="Node000007" href="$shape_8h.html" title="Définition des structures et fonctions pour les formes géométriques." alt="" coords="166,261,233,288"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="199,212,201,247,196,244,196,216"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="214,211,264,252,259,252,212,216"/>
+</map>

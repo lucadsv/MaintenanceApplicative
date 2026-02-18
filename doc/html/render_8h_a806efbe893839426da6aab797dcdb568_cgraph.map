@@ -1,0 +1,6 @@
+<map id="draw_all_layers" name="draw_all_layers">
+<area shape="rect" id="Node000001" title="Dessine toutes les couches visibles d&#39;une area." alt="" coords="5,29,117,56"/>
+<area shape="rect" id="Node000002" href="$render_8c.html#aea91d73a0878801b1968d245ccd4a94d" title="Vide une Area (remet tous les pixels à empty_char)." alt="" coords="165,29,246,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,40,152,42,147,43,117,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="180,28,176,21,179,11,189,5,205,3,223,5,233,15,228,14,221,10,205,8,191,10,183,14,181,20,185,30"/>
+</map>

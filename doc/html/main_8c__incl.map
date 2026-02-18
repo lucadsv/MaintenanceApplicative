@@ -1,0 +1,49 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/main.c" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/main.c">
+<area shape="rect" id="Node000001" title="Point d&#39;entrée principal de l&#39;application Pixel Tracer." alt="" coords="403,5,574,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="337,411,398,437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,62,451,92,435,125,422,161,417,199,417,276,413,310,405,343,383,398,379,395,400,341,408,309,411,276,411,198,417,160,430,123,447,90,465,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="229,485,292,512"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="575,49,680,72,790,105,838,125,877,147,903,171,910,185,913,198,913,351,907,374,892,394,869,412,838,428,760,453,665,472,564,484,465,493,308,499,308,494,465,487,564,479,665,466,758,448,836,423,866,407,888,390,902,372,907,350,907,199,905,186,899,175,873,151,835,130,788,110,679,77,575,54"/>
+<area shape="rect" id="Node000004" href="$pixel__tracer_8h.html" title="Définition de l&#39;application Pixel Tracer." alt="" coords="88,187,188,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="426,67,180,182,177,178,428,62"/>
+<area shape="rect" id="Node000013" href="$command_8h.html" title="Gestion des commandes utilisateur (CLI) pour Pixel Tracer." alt="" coords="520,112,609,139"/>
+<area shape="poly" id="edge26_Node000001_Node000013" title=" " alt="" coords="513,62,547,100,541,100,513,67"/>
+<area shape="rect" id="Node000005" href="$list_8h_source.html" title=" " alt="" coords="5,485,55,512"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="116,216,92,236,67,263,39,306,26,344,22,385,25,437,28,470,23,470,19,438,17,385,21,343,35,304,63,260,89,232,119,212"/>
+<area shape="rect" id="Node000006" href="$id_8h.html" title="Interface de gestion des identifiants uniques (ID) pour Pixel Tracer." alt="" coords="117,261,159,288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="139,211,141,246,135,245,137,216"/>
+<area shape="rect" id="Node000007" href="$area_8h.html" title="Gestion des &quot;areas&quot; (zones de dessin)." alt="" coords="268,336,325,363"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="188,211,232,230,253,243,271,260,288,289,296,321,291,320,283,291,267,263,249,247,229,234,189,216"/>
+<area shape="rect" id="Node000008" href="$layers_8h.html" title="Gestion des calques (layers)." alt="" coords="126,411,193,437"/>
+<area shape="poly" id="edge14_Node000004_Node000008" title=" " alt="" coords="127,216,118,236,107,262,105,275,107,287,125,346,148,397,143,397,120,348,102,289,100,275,102,261,113,234,130,211"/>
+<area shape="rect" id="Node000009" href="$shape_8h.html" title="Définition des structures et fonctions pour les formes géométriques." alt="" coords="79,485,146,512"/>
+<area shape="poly" id="edge15_Node000004_Node000009" title=" " alt="" coords="123,216,106,237,87,263,65,302,51,333,33,411,30,424,32,436,49,458,73,477,68,478,46,462,28,438,25,424,27,410,46,332,60,299,82,260,102,233,125,212"/>
+<area shape="rect" id="Node000011" href="$pixel_8h.html" title="Gestion des pixels et rasterisation des formes." alt="" coords="42,411,101,437"/>
+<area shape="poly" id="edge16_Node000004_Node000011" title=" " alt="" coords="126,216,114,237,100,262,89,297,82,333,75,396,70,395,77,332,84,296,96,260,110,234,129,211"/>
+<area shape="rect" id="Node000012" href="$render_8h.html" title="Fonctions de rendu ASCII pour Pixel Tracer." alt="" coords="188,261,256,288"/>
+<area shape="poly" id="edge20_Node000004_Node000012" title=" " alt="" coords="153,211,199,250,193,252,153,217"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="310,361,347,400,342,399,308,366"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="296,362,270,472,265,469,291,365"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="270,365,198,405,196,401,275,362"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="178,435,233,476,228,476,176,440"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="138,440,67,480,65,475,136,435"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="154,437,131,474,127,470,149,439"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="587,485,652,512"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="194,428,573,487,571,492,193,433"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="102,434,217,478,213,482,101,439"/>
+<area shape="poly" id="edge19_Node000011_Node000005" title=" " alt="" coords="66,436,47,473,42,471,62,440"/>
+<area shape="poly" id="edge18_Node000011_Node000009" title=" " alt="" coords="80,436,101,472,95,472,77,440"/>
+<area shape="poly" id="edge22_Node000012_Node000002" title=" " alt="" coords="256,284,299,303,320,317,339,334,356,364,366,397,361,394,351,366,335,338,317,321,297,308,257,289"/>
+<area shape="poly" id="edge21_Node000012_Node000003" title=" " alt="" coords="226,287,259,471,253,470,222,290"/>
+<area shape="poly" id="edge24_Node000012_Node000007" title=" " alt="" coords="235,286,276,325,270,326,235,291"/>
+<area shape="poly" id="edge23_Node000012_Node000008" title=" " alt="" coords="219,287,173,398,168,395,214,290"/>
+<area shape="poly" id="edge25_Node000012_Node000011" title=" " alt="" coords="210,291,97,402,93,398,208,286"/>
+<area shape="poly" id="edge29_Node000013_Node000002" title=" " alt="" coords="545,138,517,161,492,188,478,212,470,234,463,275,456,316,448,339,435,364,418,385,398,403,396,399,414,382,430,361,444,337,451,315,458,274,465,232,474,210,488,185,514,158,541,141"/>
+<area shape="poly" id="edge27_Node000013_Node000003" title=" " alt="" coords="609,124,652,128,698,138,745,156,785,185,802,205,809,225,811,273,811,351,807,370,795,388,775,404,750,418,686,442,609,461,525,475,443,486,308,497,308,492,442,481,524,470,608,456,684,437,748,413,772,399,791,384,802,368,806,350,806,273,804,226,797,208,782,189,742,161,697,143,651,133,610,129"/>
+<area shape="poly" id="edge32_Node000013_Node000004" title=" " alt="" coords="518,137,204,190,202,185,521,132"/>
+<area shape="poly" id="edge28_Node000013_Node000010" title=" " alt="" coords="610,129,732,149,790,165,813,174,829,185,848,204,857,224,861,246,862,273,862,351,861,378,857,400,847,419,829,439,791,465,749,483,706,493,667,498,666,493,705,488,747,478,789,461,826,435,843,416,852,398,856,377,857,351,857,273,856,247,852,226,843,207,826,189,810,179,788,170,731,154,610,134"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="502,187,628,213"/>
+<area shape="poly" id="edge30_Node000013_Node000014" title=" " alt="" coords="566,137,567,172,562,170,563,142"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="652,187,771,213"/>
+<area shape="poly" id="edge31_Node000013_Node000015" title=" " alt="" coords="590,137,675,179,669,180,590,142"/>
+</map>

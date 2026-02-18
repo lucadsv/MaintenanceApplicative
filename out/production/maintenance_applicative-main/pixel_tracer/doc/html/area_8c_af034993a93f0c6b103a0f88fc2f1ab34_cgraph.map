@@ -1,0 +1,5 @@
+<map id="create_area" name="create_area">
+<area shape="rect" id="Node000001" title="Crée une nouvelle Area." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="Node000002" href="$layers_8c.html#a81a30ec832bc7c40ae8f8c7aa452e145" title="Crée une liste de layers." alt="" coords="143,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,16,130,18,124,19,95,21"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/pixel_tracer.h" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/pixel_tracer.h">
+<area shape="rect" id="Node000001" title="Définition de l&#39;application Pixel Tracer." alt="" coords="128,5,299,64"/>
+<area shape="rect" id="Node000002" href="$command_8h.html" title="Gestion des commandes utilisateur (CLI) pour Pixel Tracer." alt="" coords="5,112,177,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,76,126,114,123,110,170,72"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="Point d&#39;entrée principal de l&#39;application Pixel Tracer." alt="" coords="67,219,238,277"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="210,77,203,125,191,172,170,220,166,217,186,170,198,123,207,82"/>
+<area shape="rect" id="Node000004" href="$pixel__tracer_8c.html" title="Initialisation et destruction de l&#39;application Pixel Tracer." alt="" coords="251,112,422,171"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="259,71,306,111,300,112,258,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,182,138,218,133,218,114,186"/>
+</map>

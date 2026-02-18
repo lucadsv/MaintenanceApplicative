@@ -1,0 +1,18 @@
+<map id="init_app" name="init_app">
+<area shape="rect" id="Node000001" title="Initialise l&#39;application Pixel Tracer." alt="" coords="5,157,72,184"/>
+<area shape="rect" id="Node000002" href="$area_8c.html#a83dc095cf944e02fad182ff383880d2f" title="Ajoute une Area à une liste d&#39;Area." alt="" coords="121,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,156,70,102,91,70,118,42,126,38,123,43,121,46,96,73,75,104,48,158"/>
+<area shape="rect" id="Node000003" href="$layers_8c.html#ab59217268dcc283a4942f7e3ed56e3c8" title="Ajoute un layer à une liste de layers." alt="" coords="120,56,239,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="49,155,79,124,118,92,129,88,125,92,121,97,83,128,54,158"/>
+<area shape="rect" id="Node000004" href="$area_8c.html#af034993a93f0c6b103a0f88fc2f1ab34" title="Crée une nouvelle Area." alt="" coords="135,107,224,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="71,157,128,137,124,141,74,161"/>
+<area shape="rect" id="Node000005" href="$layers_8c.html#a81a30ec832bc7c40ae8f8c7aa452e145" title="Crée une liste de layers." alt="" coords="287,132,410,159"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="72,165,272,149,270,154,73,171"/>
+<area shape="rect" id="Node000006" href="$area_8c.html#ab5f9940349ea7e9717c769a1f6da0c04" title="Crée une liste d&#39;Area." alt="" coords="123,208,236,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="72,180,128,201,124,204,73,185"/>
+<area shape="rect" id="Node000007" href="$layers_8c.html#a853dcca01b74d5b771a3c92c67f16a04" title="Crée un nouveau layer." alt="" coords="133,259,226,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="52,182,83,213,121,244,130,251,125,252,118,249,79,217,52,187"/>
+<area shape="rect" id="Node000008" href="$id_8c.html#a0460b32f6c689432d3be850613333aab" title="Retourne un nouvel ID unique." alt="" coords="135,309,224,336"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="46,182,75,237,96,268,121,295,127,301,122,301,118,299,91,271,70,240,44,187"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,124,275,133,270,135,225,129"/>
+</map>

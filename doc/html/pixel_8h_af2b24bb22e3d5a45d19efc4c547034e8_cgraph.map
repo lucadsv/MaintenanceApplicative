@@ -1,0 +1,27 @@
+<map id="create_shape_to_pixel" name="create_shape_to_pixel">
+<area shape="rect" id="Node000001" title="Convertit une forme en une liste de pixels." alt="" coords="5,144,157,171"/>
+<area shape="rect" id="Node000002" href="$pixel_8c.html#ac4ab66e099c25ea772ebdc5f50b59847" title="Conversion d&#39;un cercle en pixels." alt="" coords="369,5,459,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,142,138,98,169,74,204,55,241,41,280,30,356,20,351,23,281,36,243,46,206,60,172,79,142,102,97,145"/>
+<area shape="rect" id="Node000004" href="$pixel_8c.html#a1a17e77b9983a5d25c11f697bb1f6147" title="Rasterise une courbe de Bézier." alt="" coords="370,68,458,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,142,142,108,172,91,204,79,243,71,282,68,358,72,353,74,283,73,243,76,205,84,174,96,145,112,100,146"/>
+<area shape="rect" id="Node000005" href="$pixel_8c.html#a49e9a749297e1988b199d7fb75c7f7cd" title="Conversion d&#39;une ligne en pixels." alt="" coords="221,93,296,120"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="130,141,208,120,204,123,132,146"/>
+<area shape="rect" id="Node000007" href="$pixel_8c.html#ac5fdff7e509d6ede5e290a32044d4ae9" title="Conversion d&#39;un point en pixel." alt="" coords="372,245,456,272"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="91,168,110,196,135,227,168,258,206,282,246,292,288,292,329,285,363,278,368,277,330,290,289,297,245,297,204,286,164,262,131,231,105,199,90,174"/>
+<area shape="rect" id="Node000008" href="$pixel_8c.html#a5667750b581fe21ec08d266b521b98f4" title="Rasterise un polygone." alt="" coords="209,144,309,171"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="156,155,196,156,191,158,158,160"/>
+<area shape="rect" id="Node000009" href="$pixel_8c.html#a4be84707cddae4c88c715fc31a89db84" title="Rasterise un rectangle." alt="" coords="205,195,313,221"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="131,169,197,189,193,191,131,174"/>
+<area shape="rect" id="Node000010" href="$pixel_8c.html#a33ac3154a410a7daf32aa794ed4c000a" title="Rasterise un carré." alt="" coords="212,245,306,272"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="104,169,206,231,216,238,211,238,203,236,102,174"/>
+<area shape="rect" id="Node000003" href="$pixel_8c.html#a88186143f92662a89216b505395926a0" title="Crée un pixel." alt="" coords="515,119,607,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,30,469,54,535,109,529,108,466,58,435,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="455,93,508,113,503,113,455,98"/>
+<area shape="rect" id="Node000006" href="$pixel_8c.html#ada24bb1dd5c74df0c61ffd451a603da6" title="Trace un segment entre deux points." alt="" coords="361,144,467,171"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="297,116,359,138,354,139,297,122"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="467,146,503,142,498,143,469,151"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="430,243,530,157,535,155,432,247"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="309,155,348,157,343,158,310,160"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="301,191,359,175,354,177,303,197"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="291,242,312,231,383,182,388,180,314,236,293,247"/>
+</map>

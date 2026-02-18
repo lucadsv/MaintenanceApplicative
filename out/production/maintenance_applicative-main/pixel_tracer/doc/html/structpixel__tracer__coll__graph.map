@@ -1,0 +1,14 @@
+<map id="pixel_tracer" name="pixel_tracer">
+<area shape="rect" id="Node000001" title="Structure principale de l&#39;application Pixel Tracer." alt="" coords="95,341,183,368"/>
+<area shape="rect" id="Node000002" href="$structarea.html" title="Représente une zone de dessin (Area)." alt="" coords="5,243,52,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,282,45,301,56,315,74,329,97,341,92,342,72,334,52,319,40,303,35,287"/>
+<area shape="rect" id="Node000003" href="$structlayer.html" title="Représente un calque de dessin." alt="" coords="114,243,164,269"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,283,142,342,137,340,137,287"/>
+<area shape="rect" id="Node000004" href="$structlist__.html" title=" " alt="" coords="116,144,162,171"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,184,142,243,137,242,138,189"/>
+<area shape="rect" id="Node000005" href="$structlnode__.html" title=" " alt="" coords="110,15,169,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,55,142,144,137,143,138,60"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="183,14,193,20,195,28,193,36,187,41,170,43,167,39,185,36,189,33,190,28,188,23,185,19"/>
+<area shape="rect" id="Node000006" href="$structshape.html" title="Représente une forme générique." alt="" coords="224,243,281,269"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="246,283,238,303,225,319,206,333,185,344,183,339,203,329,221,315,233,300,242,286"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/shape.h" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/shape.h">
+<area shape="rect" id="Node000001" title="Définition des structures et fonctions pour les formes géométriques." alt="" coords="206,5,377,64"/>
+<area shape="rect" id="Node000002" href="$layers_8h.html" title="Gestion des calques (layers)." alt="" coords="145,112,316,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,80,250,113,245,110,269,75"/>
+<area shape="rect" id="Node000005" href="$pixel__tracer_8h.html" title="Définition de l&#39;application Pixel Tracer." alt="" coords="206,432,377,491"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="201,73,168,92,135,114,98,144,67,175,40,207,21,240,11,274,9,309,19,345,40,382,65,401,106,418,208,444,204,447,105,423,63,406,36,386,14,347,4,309,5,273,16,237,36,203,63,171,95,140,132,110,165,87,204,69"/>
+<area shape="rect" id="Node000011" href="$pixel_8h.html" title="Gestion des pixels et rasterisation des formes." alt="" coords="525,219,696,277"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="310,75,340,125,359,148,380,168,434,190,527,221,522,222,432,195,377,173,355,152,336,128,309,81"/>
+<area shape="rect" id="Node000013" href="$shape_8c.html" title="Implémentation des formes géométriques de Pixel Tracer." alt="" coords="390,112,561,171"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="355,69,428,111,423,112,356,75"/>
+<area shape="rect" id="Node000003" href="$area_8h.html" title="Gestion des &quot;areas&quot; (zones de dessin)." alt="" coords="83,219,255,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,186,188,219,183,217,207,182"/>
+<area shape="poly" id="edge12_Node000002_Node000005" title=" " alt="" coords="129,172,99,192,74,220,52,263,44,302,51,341,74,382,100,410,133,429,170,443,208,453,204,455,168,448,131,434,97,414,70,386,46,343,38,302,47,261,70,217,96,188,132,168"/>
+<area shape="rect" id="Node000009" href="$render_8h.html" title="Fonctions de rendu ASCII pour Pixel Tracer." alt="" coords="329,325,500,384"/>
+<area shape="poly" id="edge13_Node000002_Node000009" title=" " alt="" coords="252,182,283,229,319,276,345,301,374,324,369,325,342,305,315,279,279,232,252,187"/>
+<area shape="rect" id="Node000010" href="$layers_8c.html" title="Gestion des calques (layers) dans Pixel Tracer." alt="" coords="329,219,500,277"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="294,176,367,217,362,219,294,181"/>
+<area shape="rect" id="Node000004" href="$area_8c.html" title="Implémentation des fonctions de gestion des zones de dessin (Area)." alt="" coords="83,325,255,384"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,290,172,325,166,324,169,296"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="231,284,252,303,269,324,281,351,289,379,295,432,290,431,284,380,276,353,264,327,248,306,231,289"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="250,281,349,324,345,326,251,286"/>
+<area shape="rect" id="Node000006" href="$command_8h.html" title="Gestion des commandes utilisateur (CLI) pour Pixel Tracer." alt="" coords="206,539,377,597"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="293,504,294,539,289,537,290,509"/>
+<area shape="rect" id="Node000007" href="$main_8c.html" title="Point d&#39;entrée principal de l&#39;application Pixel Tracer." alt="" coords="145,645,316,704"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="228,498,210,520,197,540,190,566,193,594,202,620,214,646,209,644,197,622,188,595,185,566,192,538,206,516,224,502"/>
+<area shape="rect" id="Node000008" href="$pixel__tracer_8c.html" title="Initialisation et destruction de l&#39;application Pixel Tracer." alt="" coords="402,539,573,597"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="359,495,437,538,431,538,358,501"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="270,609,249,647,245,643,265,612"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="368,396,327,434,324,430,372,392"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="586,289,548,347,514,386,482,406,447,423,379,446,377,441,445,418,479,402,510,382,544,344,582,292"/>
+<area shape="poly" id="edge17_Node000011_Node000009" title=" " alt="" coords="541,286,470,327,467,323,546,283"/>
+<area shape="rect" id="Node000012" href="$pixel_8c.html" title="Conversion des formes géométriques en pixels." alt="" coords="574,325,745,384"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="631,289,649,326,644,324,630,294"/>
+</map>

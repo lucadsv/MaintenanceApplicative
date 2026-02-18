@@ -1,0 +1,5 @@
+<map id="pixel_curve" name="pixel_curve">
+<area shape="rect" id="Node000001" title="Rasterise une courbe de Bézier." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="Node000002" href="$pixel_8c.html#a88186143f92662a89216b505395926a0" title="Crée un pixel." alt="" coords="141,5,232,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,16,127,18,122,19,93,21"/>
+</map>

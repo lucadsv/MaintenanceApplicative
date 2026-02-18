@@ -1,0 +1,26 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/render.h" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/render.h">
+<area shape="rect" id="Node000001" title="Fonctions de rendu ASCII pour Pixel Tracer." alt="" coords="186,5,357,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="258,261,322,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,62,349,116,370,150,385,186,388,200,384,215,363,240,337,258,335,253,360,236,380,212,383,200,379,187,365,152,345,119,301,67"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="309,187,370,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,62,315,111,335,172,330,171,310,113,288,67"/>
+<area shape="rect" id="Node000004" href="$layers_8h.html" title="Gestion des calques (layers)." alt="" coords="167,187,234,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,62,234,113,211,173,207,170,229,111,253,66"/>
+<area shape="rect" id="Node000008" href="$area_8h.html" title="Gestion des &quot;areas&quot; (zones de dessin)." alt="" coords="243,112,300,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="273,62,274,97,269,95,270,67"/>
+<area shape="rect" id="Node000009" href="$pixel_8h.html" title="Gestion des pixels et rasterisation des formes." alt="" coords="83,187,142,213"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="246,63,137,177,133,174,241,65"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="217,211,265,251,260,251,215,216"/>
+<area shape="rect" id="Node000005" href="$list_8h_source.html" title=" " alt="" coords="5,261,55,288"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,216,70,259,68,255,170,211"/>
+<area shape="rect" id="Node000006" href="$shape_8h.html" title="Définition des structures et fonctions pour les formes géométriques." alt="" coords="79,261,146,288"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="188,213,141,254,138,249,183,215"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="170,261,234,288"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="203,212,204,247,199,244,199,216"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="275,137,289,247,284,245,271,141"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="284,137,320,175,315,175,282,142"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="261,138,225,178,222,174,257,141"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="143,211,248,254,243,256,142,216"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="101,213,57,253,54,249,96,215"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="114,212,115,247,110,245,111,216"/>
+</map>

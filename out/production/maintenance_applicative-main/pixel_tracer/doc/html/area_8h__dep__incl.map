@@ -1,0 +1,17 @@
+<map id="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/area.h" name="C:/Users/zeust/OneDrive/Bureau/projet_halim/pixel_tracer/src/area.h">
+<area shape="rect" id="Node000001" title="Gestion des &quot;areas&quot; (zones de dessin)." alt="" coords="128,5,299,64"/>
+<area shape="rect" id="Node000002" href="$area_8c.html" title="Implémentation des fonctions de gestion des zones de dessin (Area)." alt="" coords="5,112,177,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,76,127,113,122,110,170,72"/>
+<area shape="rect" id="Node000003" href="$pixel__tracer_8h.html" title="Définition de l&#39;application Pixel Tracer." alt="" coords="189,219,361,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,77,229,123,242,170,262,218,257,218,236,172,224,125,218,82"/>
+<area shape="rect" id="Node000007" href="$render_8h.html" title="Fonctions de rendu ASCII pour Pixel Tracer." alt="" coords="251,112,422,171"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="258,71,305,111,300,112,259,77"/>
+<area shape="rect" id="Node000004" href="$command_8h.html" title="Gestion des commandes utilisateur (CLI) pour Pixel Tracer." alt="" coords="67,325,238,384"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,289,188,327,184,323,232,286"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title="Point d&#39;entrée principal de l&#39;application Pixel Tracer." alt="" coords="128,432,299,491"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="271,291,264,338,252,385,231,433,227,430,247,383,259,337,268,295"/>
+<area shape="rect" id="Node000006" href="$pixel__tracer_8c.html" title="Initialisation et destruction de l&#39;application Pixel Tracer." alt="" coords="312,325,483,384"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="320,285,367,325,362,325,319,290"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,395,200,432,194,431,176,400"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="314,182,294,220,290,217,310,186"/>
+</map>

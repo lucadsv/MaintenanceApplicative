@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['cercle_0',['cercle',['../structcercle.html',1,'']]],
+  ['clear_5farea_1',['clear_area',['../area_8h.html#aea91d73a0878801b1968d245ccd4a94d',1,'render.c']]],
+  ['clear_5fscreen_2',['clear_screen',['../render_8h.html#a4953d1edcbbfc7e420c423ded1d5621a',1,'render.c']]],
+  ['color_5fcell_3',['color_cell',['../render_8h.html#afb357ddf7c2eb20e7781c00ff0d2941f',1,'render.h']]],
+  ['command_4',['command',['../structcommand.html',1,'']]],
+  ['command_2eh_5',['command.h',['../command_8h.html',1,'']]],
+  ['create_5farea_6',['create_area',['../area_8c.html#af034993a93f0c6b103a0f88fc2f1ab34',1,'create_area(unsigned int width, unsigned int height, unsigned char id, char *name):&#160;area.c'],['../area_8h.html#af034993a93f0c6b103a0f88fc2f1ab34',1,'create_area(unsigned int width, unsigned int height, unsigned char id, char *name):&#160;area.c']]],
+  ['create_5farea_5flist_7',['create_area_list',['../area_8c.html#ab5f9940349ea7e9717c769a1f6da0c04',1,'create_area_list():&#160;area.c'],['../area_8h.html#ab5f9940349ea7e9717c769a1f6da0c04',1,'create_area_list():&#160;area.c']]],
+  ['create_5fcercle_8',['create_cercle',['../shape_8c.html#aa2c951dd5850a2d403d43cf32b4a1aad',1,'create_cercle(Point *center, int radus):&#160;shape.c'],['../shape_8h.html#aa2c951dd5850a2d403d43cf32b4a1aad',1,'create_cercle(Point *center, int radus):&#160;shape.c']]],
+  ['create_5fcommande_9',['create_commande',['../command_8h.html#a6b63852b135aad68545f0a04ccb1b966',1,'command.c']]],
+  ['create_5fcurve_10',['create_curve',['../shape_8c.html#a0b00018396692c013a631cf10b1efb96',1,'create_curve(Point *p1, Point *p2, Point *p3, Point *p4):&#160;shape.c'],['../shape_8h.html#a0b00018396692c013a631cf10b1efb96',1,'create_curve(Point *p1, Point *p2, Point *p3, Point *p4):&#160;shape.c']]],
+  ['create_5fempty_5fshape_11',['create_empty_shape',['../shape_8c.html#aae294a5667c8e8b32e2b4af3fa98679a',1,'create_empty_shape(Shape_type shape_type):&#160;shape.c'],['../shape_8h.html#aae294a5667c8e8b32e2b4af3fa98679a',1,'create_empty_shape(Shape_type shape_type):&#160;shape.c']]],
+  ['create_5flayer_12',['create_layer',['../layers_8c.html#a853dcca01b74d5b771a3c92c67f16a04',1,'create_layer(int id, char *name):&#160;layers.c'],['../layers_8h.html#a853dcca01b74d5b771a3c92c67f16a04',1,'create_layer(int id, char *name):&#160;layers.c']]],
+  ['create_5flayers_5flist_13',['create_layers_list',['../layers_8c.html#a81a30ec832bc7c40ae8f8c7aa452e145',1,'create_layers_list():&#160;layers.c'],['../layers_8h.html#a81a30ec832bc7c40ae8f8c7aa452e145',1,'create_layers_list():&#160;layers.c']]],
+  ['create_5fline_14',['create_line',['../shape_8c.html#abfd6bf5e65ff572bfad113528ebd233e',1,'create_line(Point *p1, Point *p2):&#160;shape.c'],['../shape_8h.html#abfd6bf5e65ff572bfad113528ebd233e',1,'create_line(Point *p1, Point *p2):&#160;shape.c']]],
+  ['create_5fline_5fshape_15',['create_line_shape',['../shape_8c.html#aa5c6f398c4465b204e4266a41042f251',1,'create_line_shape(int px1, int py1, int px2, int py2):&#160;shape.c'],['../shape_8h.html#aa5c6f398c4465b204e4266a41042f251',1,'create_line_shape(int px1, int py1, int px2, int py2):&#160;shape.c']]],
+  ['create_5fpixel_16',['create_pixel',['../pixel_8c.html#a88186143f92662a89216b505395926a0',1,'create_pixel(int px, int py, int color):&#160;pixel.c'],['../pixel_8h.html#a88186143f92662a89216b505395926a0',1,'create_pixel(int px, int py, int color):&#160;pixel.c']]],
+  ['create_5fpoint_17',['create_point',['../shape_8c.html#ab97fa9ac627755e6124e7e207e2924d4',1,'create_point(int px, int py):&#160;shape.c'],['../shape_8h.html#ab97fa9ac627755e6124e7e207e2924d4',1,'create_point(int px, int py):&#160;shape.c']]],
+  ['create_5fpoint_5fshape_18',['create_point_shape',['../shape_8c.html#a80752be52322a61e81bf4e49390c008c',1,'create_point_shape(int px, int py):&#160;shape.c'],['../shape_8h.html#a80752be52322a61e81bf4e49390c008c',1,'create_point_shape(int px, int py):&#160;shape.c']]],
+  ['create_5fpolygon_19',['create_polygon',['../shape_8c.html#a0b6ec900fe0543eb52bd50859991e909',1,'create_polygon(int n):&#160;shape.c'],['../shape_8h.html#a0b6ec900fe0543eb52bd50859991e909',1,'create_polygon(int n):&#160;shape.c']]],
+  ['create_5fpolygon_5fshape_20',['create_polygon_shape',['../shape_8c.html#a97f6c2418977ed6b87fe369afdff4909',1,'create_polygon_shape(int n, int *tab):&#160;shape.c'],['../shape_8h.html#a97f6c2418977ed6b87fe369afdff4909',1,'create_polygon_shape(int n, int *tab):&#160;shape.c']]],
+  ['create_5frectangle_21',['create_rectangle',['../shape_8c.html#a73699118b7346b270993b7da411b3fac',1,'create_rectangle(Point *point, int width, int height):&#160;shape.c'],['../shape_8h.html#a73699118b7346b270993b7da411b3fac',1,'create_rectangle(Point *point, int width, int height):&#160;shape.c']]],
+  ['create_5fshape_5fto_5fpixel_22',['create_shape_to_pixel',['../pixel_8c.html#af2b24bb22e3d5a45d19efc4c547034e8',1,'create_shape_to_pixel(Shape *shape):&#160;pixel.c'],['../pixel_8h.html#af2b24bb22e3d5a45d19efc4c547034e8',1,'create_shape_to_pixel(Shape *shape):&#160;pixel.c']]],
+  ['create_5fsquar_23',['create_squar',['../shape_8c.html#a9256811d2c05d6f4b422136ad73975e9',1,'create_squar(Point *point, int length):&#160;shape.c'],['../shape_8h.html#a83413fc68532ff4b56e74c609089be32',1,'create_squar(Point *point, int legth):&#160;shape.c']]],
+  ['curve_24',['curve',['../structcurve.html',1,'']]]
+];
