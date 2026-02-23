@@ -7,35 +7,62 @@ import java.util.Scanner;
  * sur l'etat de l'application.
  */
 public class Instruction {
+    /** Nom de la commande (ex: line, circle, list). */
     private String name;
+    /** Paramètres entiers extraits de la ligne utilisateur. */
     private ArrayList<Integer> intParams;
+    /** Paramètres textuels extraits de la ligne utilisateur. */
     private ArrayList<String> strParams;
+    /** Nombre maximal de paramètres acceptés par type. */
     private static final int MAX_PARAM = 30;
 
+    /**
+     * Construit une instruction vide.
+     */
     public Instruction() {
         this.name = "";
         this.intParams = new ArrayList<>();
         this.strParams = new ArrayList<>();
     }
 
+    /**
+     * Vide le contenu de la commande courante.
+     */
     public void viderCommande() {
         this.name = "";
         this.intParams.clear();
         this.strParams.clear();
     }
 
+    /**
+     * Ajoute un paramètre entier si la limite n'est pas atteinte.
+     *
+     * @param p valeur entière
+     */
     public void addIntParam(int p) {
         if (intParams.size() < MAX_PARAM) {
             intParams.add(p);
         }
     }
 
+    /**
+     * Ajoute un paramètre textuel si la limite n'est pas atteinte.
+     *
+     * @param s valeur textuelle
+     */
     public void addStrParam(String s) {
         if (strParams.size() < MAX_PARAM) {
             strParams.add(s);
         }
     }
 
+    /**
+     * Lit une ligne depuis l'entrée standard et remplit les paramètres.
+     *
+     * <p>Les tokens numériques sont rangés dans {@code intParams},
+     * les autres dans {@code strParams}. Le nom de commande est le premier
+     * token textuel.</p>
+     */
     public void lireDepuisStdin() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("~> ");
@@ -54,6 +81,9 @@ public class Instruction {
         }
     }
 
+    /**
+     * Affiche l'état de debug de l'instruction.
+     */
     public void debug() {
         System.out.println("\n --- ");
         System.out.println("str:");
@@ -66,16 +96,36 @@ public class Instruction {
         }
     }
 
+    /**
+     * Retourne le nom de la commande.
+     *
+     * @return nom de commande
+     */
     public String getName() {
         return name;
     }
+
+    /**
+     * Retourne les paramètres textuels de la commande.
+     *
+     * @return paramètres textuels
+     */
     public ArrayList<String> getStrParams() {
         return strParams;
     }
+
+    /**
+     * Retourne les paramètres entiers de la commande.
+     *
+     * @return paramètres entiers
+     */
     public ArrayList<Integer> getIntParams() {
         return intParams;
     }
 
+    /**
+     * Affiche le panneau d'aide des commandes disponibles.
+     */
     public void afficherAide() {
         System.out.println("\t**************************************************");
         System.out.println("\t****         VECTOR TEXT-BASED EDITOR         ****");
@@ -103,6 +153,18 @@ public class Instruction {
         System.out.println("\tset layer {visible, invisible} {id}");
     }
 
+    /**
+     * Exécute la commande sur le contexte applicatif courant.
+     *
+     * <p>Cette méthode gère les commandes de contrôle, de dessin et de gestion
+     * d'objets (list/select/delete/new/set), puis déclenche le redessin
+     * si nécessaire.</p>
+     *
+     * @param app instance principale de l'application
+     * @param area zone active
+     * @param layer calque actif
+     * @param shape forme active
+     */
     public void executerInstruction(ApplicationConsole app, CanvasArea area, DrawingLayer layer, DrawableShape shape) {
         CoordPoint p1;
         CoordPoint p2;

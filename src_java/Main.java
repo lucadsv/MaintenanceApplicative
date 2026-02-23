@@ -4,6 +4,12 @@ package pixel_tracer.src_java;
  * Point d'entree de test pour afficher un echantillon de formes.
  */
 class Main{
+    /**
+     * Exécute une démonstration simple en instanciant plusieurs formes
+     * puis en affichant leur description textuelle.
+     *
+     * @param args arguments de ligne de commande (non utilisés)
+     */
     public static void main(String[] args) {
         System.out.println(" Shapes ");
         DrawableShape[] shapes = new DrawableShape[8]; 
