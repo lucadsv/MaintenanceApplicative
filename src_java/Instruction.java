@@ -183,8 +183,9 @@ public class Instruction {
                 break;
             case "clear":
                 if (this.strParams.size() == 1) {
-                    app.currentArea.reinitialiserZone();
-                    System.out.flush();
+                    effacerConsole();
+                    MessageErreur.CLEAR.afficher();
+                    shouldDrawCanvas = false;
                 } else {
                     MessageErreur.INVALID_PARAMETERS.afficher();
                     shouldDrawCanvas = false; 
@@ -301,7 +302,8 @@ public class Instruction {
                     switch (target) {
                         case "layers":
                             for (DrawingLayer l : app.currentArea.getCalques()) {
-                                System.out.println("DrawingLayer ID: " + l.getId() + ", Name: " + l.getName());
+                                String selectedMarker = (app.currentLayer != null && l.getId() == app.currentLayer.getId()) ? "*" : " ";
+                                System.out.println(selectedMarker + " DrawingLayer ID: " + l.getId() + ", Name: " + l.getName());
                             }
                             break;
                         case "areas":
@@ -404,7 +406,8 @@ public class Instruction {
                         case "layer":
                             DrawingLayer newLayer = new DrawingLayer("new_layer", SequenceId.instance().prochainId());
                             app.currentArea.ajouterCalque(newLayer);
-                            System.out.println("Created new DrawingLayer ID: " + newLayer.getId());
+                            app.currentLayer = newLayer;
+                            System.out.println("Created new DrawingLayer ID: " + newLayer.getId() + " (selected)");
                             break;
                         default:
                             MessageErreur.UNKNOWN_COMMAND.afficher();
@@ -415,35 +418,73 @@ public class Instruction {
                 shouldDrawCanvas = false;
                 break;
             case "set":
-                if (this.strParams.size() == 3 && this.intParams.size() == 1) { 
+                boolean setSuccess = false;
+                if (this.strParams.size() == 3 && this.intParams.size() == 1 && "char".equals(this.strParams.get(1))) {
                     String target = this.strParams.get(2);
-                    int asciiCode = this.intParams.get(0); 
-
-                    
+                    int asciiCode = this.intParams.get(0);
                     if (asciiCode < 32 || asciiCode > 126) {
                         MessageErreur.INVALID_PARAMETERS.afficher();
                         System.out.println("ASCII code must be between 32 and 126 for printable characters.");
                         shouldDrawCanvas = false;
                         break;
                     }
-                    char newChar = (char) asciiCode; 
+                    char newChar = (char) asciiCode;
                     switch (target) {
                         case "background":
                             area.setEmptyChar(newChar);
                             System.out.println("Background character set to: " + newChar);
+                            setSuccess = true;
                             break;
                         case "border":
                             area.setFullChar(newChar);
                             System.out.println("Border character set to: " + newChar);
+                            setSuccess = true;
                             break;
                         default:
                             MessageErreur.UNKNOWN_COMMAND.afficher();
+                            shouldDrawCanvas = false;
+                            break;
+                    }
+                } else if (this.strParams.size() == 3 && this.intParams.size() == 1 && "layer".equals(this.strParams.get(1))) {
+                    String visibility = this.strParams.get(2);
+                    int layerId = this.intParams.get(0);
+                    DrawingLayer targetLayer = null;
+                    for (DrawingLayer l : app.currentArea.getCalques()) {
+                        if (l.getId() == layerId) {
+                            targetLayer = l;
+                            break;
+                        }
+                    }
+                    if (targetLayer == null) {
+                        MessageErreur.UNKNOWN_ID.afficher();
+                        shouldDrawCanvas = false;
+                        break;
+                    }
+                    switch (visibility) {
+                        case "visible":
+                            targetLayer.setVisible(true);
+                            System.out.println("DrawingLayer ID " + layerId + " set to visible.");
+                            setSuccess = true;
+                            break;
+                        case "invisible":
+                        case "unvisible":
+                            targetLayer.setVisible(false);
+                            System.out.println("DrawingLayer ID " + layerId + " set to invisible.");
+                            setSuccess = true;
+                            break;
+                        default:
+                            MessageErreur.INVALID_PARAMETERS.afficher();
+                            System.out.println("Expected format: set layer {visible, invisible} {id}");
+                            shouldDrawCanvas = false;
+                            break;
                     }
                 } else {
                     MessageErreur.INVALID_PARAMETERS.afficher();
                     System.out.println("Expected format: set char {background, border} {ascii_code}");
+                    System.out.println("Expected format: set layer {visible, invisible} {id}");
+                    shouldDrawCanvas = false;
                 }
-                shouldDrawCanvas = false;
+                shouldDrawCanvas = setSuccess;
                 break;
             default:
                 System.out.println("Commande inconnue"); 
@@ -452,6 +493,14 @@ public class Instruction {
         }
         if (shouldDrawCanvas) {
             app.currentArea.draw(); 
+        }
+    }
+
+    private void effacerConsole() {
+        System.out.print("\033[H\033[2J");
+        System.out.flush();
+        for (int i = 0; i < 80; i++) {
+            System.out.println();
         }
     }
 }
